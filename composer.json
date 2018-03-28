@@ -1,4 +1,11 @@
 {
     "name": "gilek/php-msgpack-stubs",
-    "require": {}
+    "require": {},
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Maciej Kłak",
+        "email": "klak.maciej@gmail.com"
+      }
+    ]
 }
