@@ -1,11 +1,16 @@
 {
     "name": "gilek/php-msgpack-stubs",
+    "description": "This package provides stubs for msgpack PHP extension.",
     "require": {},
     "license": "MIT",
     "authors": [
       {
         "name": "Maciej Kłak",
         "email": "klak.maciej@gmail.com"
+      },
+      {
+        "name": "Denis Koshechkin",
+        "email": "bushikot@gmail.com"
       }
     ]
 }
