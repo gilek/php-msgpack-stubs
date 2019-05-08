@@ -8,8 +8,7 @@ function msgpack_pack ($value) {}
 
 /**
  * @param string $str
- * @return object|string $object
- * @return mixed
+ * @return object|string|mixed $object
  */
 function msgpack_unpack ($str, $object = null) {}
 
